@@ -2,7 +2,7 @@
 
 namespace SubModuleLib
 {
-    public class Class2
+    public class Class1
     {
     }
 }
